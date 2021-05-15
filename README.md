@@ -1,4 +1,4 @@
-# Solidity Starter
+# Solidity Starter
 
 This is a simple starter to understand how to run a local enviorment of Solidity and start interacting with it.
 
